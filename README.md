@@ -11,7 +11,8 @@ esx_dmvschool en RageUI + full modif (Preview)
 
 📷 Vidéo / Preview :
 
-    v0.1 : hhttps://streamable.com/2v5p9e
+v0.1 : hhttps://streamable.com/2v5p9e
+
 
 
     🔖Copyright (C) 2020 KoZeuh 
