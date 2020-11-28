@@ -1,26 +1,25 @@
-# kozeuh_permis
-esx_dmvschool en RageUI + full modif (Preview)
+<h2 align='center'>✔️ v0.1 No Release - Private - Only an overview </h2>
 
-✔️ Version v0.1 No-Release / Private 
+<h2 align='center'>🔒 Dépendances / Dependencies :</h2>
+<div align='center'>
 
-🔒 Dépendances:
+    RageUI  - https://github.com/iTexZoz/NativeUILua_Reloaded
+    es_extended [ESX v1] - https://github.com/esx-framework/es_extended/
+</div>
 
-    RageUI
-    esx_license
+<h2 align='center'>📷 Vidéo / Preview :</h2>
+<div align='center'> v0.1 : https://streamable.com/7hpit8 </div>
 
+<h2 align='center'>👉 A propos de  :</h2>
+<div align='center'>
 
-📷 Vidéo / Preview :
+    - Refonte totale du script 'esx_dmvschool' en RageUI.
+</div>
 
-v0.1 : https://streamable.com/2v5p9e
+<h2 align='center'>👉 About  :</h2>
+<div align='center'>
 
+    Total redesign of the esx_dmvschool script in RageUI.
+</div>
 
-
-    🔖Copyright (C) 2020 KoZeuh 
-
-
-
-original esx_dmvschool  : https://github.com/ESX-Org/esx_dmvschool
-
-Basic Founder Copyright : esx_dmvschool - realistic DMV school for ESX
-
-Copyright (C) 2015-2020 Jérémie N'gadi
+<h2 align='center'>🔖 Copyright (C) 2020 KoZeuh</h2>
