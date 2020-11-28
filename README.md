@@ -3,7 +3,7 @@
 <h2 align='center'>🔒 Dépendances / Dependencies :</h2>
 <div align='center'>
 
-    RageUI  - https://github.com/iTexZoz/NativeUILua_Reloaded
+    RageUI  - https://github.com/iTexZoz/RageUI
     es_extended [ESX v1] - https://github.com/esx-framework/es_extended/
 </div>
 
